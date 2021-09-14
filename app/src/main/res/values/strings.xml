@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFullStackAndroid</string>
+    <string name="valetnomcurso">Ingrese el nombre del curso</string>
+    <string name="valetcredcurso">Ingrese el crédito del curso</string>
+    <string name="valetcategcurso">Ingrese la categoria del curso</string>
+    <string name="valbtnguardar">GUARDAR</string>
+    <string name="valtvtitulo">REGISTRO DE CURSO</string>
+    <string name="valbtnverlista">LISTAR CURSOS</string>
+</resources>
